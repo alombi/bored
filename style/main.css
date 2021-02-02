@@ -1,0 +1,55 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #9bc995;
+  padding: 2%;
+}
+
+h1 {
+  color: #3f3047;
+  font-weight: 800;
+  font-size: 37px;
+}
+
+button {
+  background-color: #eef36a;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 45px;
+  padding-right: 45px;
+  border-radius: 9px;
+  border: 2px solid #3f3047;
+}
+
+.footer {
+  margin-top: 150px;
+  font-size: 12px;
+  text-align: center;
+  color: #5171a5;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.item {
+  margin-left: 20px;
+}
+
+#activity {
+  background-color: #3f3047;
+  color: #eef36a;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border-radius: 9px;
+}
+
+@media (max-width: 1000px) {
+  .item {
+    margin-left: 0px;
+  }
+}/*# sourceMappingURL=main.css.map */
