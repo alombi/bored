@@ -15,6 +15,7 @@ h1{
 }
 button{
    background-color:$secondary_color;
+   color: $main_color;
    font-size: 15px;
    padding-top: 10px;
    padding-bottom: 10px;
@@ -22,6 +23,10 @@ button{
    padding-right: 45px;
    border-radius: 9px;
    border: 2px solid $main_color;
+   outline: 0;
+}
+button:hover{
+   opacity: 0.9;
 }
 .footer{
    margin-top:150px;

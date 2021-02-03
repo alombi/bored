@@ -1,4 +1,3 @@
-
 async function findActivity(resultP){
    var resultP = document.getElementById('activity')
    resultP.innerHTML = "Finding something for you..."

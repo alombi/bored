@@ -12,6 +12,7 @@ h1 {
 
 button {
   background-color: #eef36a;
+  color: #3f3047;
   font-size: 15px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -20,6 +21,10 @@ button {
   border-radius: 9px;
   border: 2px solid #3f3047;
   outline: 0;
+}
+
+button:hover {
+  opacity: 0.9;
 }
 
 .footer {
