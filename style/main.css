@@ -19,6 +19,7 @@ button {
   padding-right: 45px;
   border-radius: 9px;
   border: 2px solid #3f3047;
+  outline: 0;
 }
 
 .footer {
