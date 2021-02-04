@@ -44,6 +44,10 @@ button:hover {
   margin-left: 20px;
 }
 
+#button {
+  margin-left: 0px;
+}
+
 #activity {
   background-color: #3f3047;
   color: #eef36a;
